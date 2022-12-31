@@ -30,7 +30,7 @@ bias when determining loan approval or denial.
 
 <picture>
   <img src="https://github.com/neilchen1998/
-loan-approval-analysis/blob/main/graphs/approval-vs-denial-rate-by-race.jpg" width="250" height="250">
+loan-approval-analysis/blob/main/graphs/approval-vs-denial-rate-by-race.png" width="250" height="250">
 </picture>
 
 ## Approaches
