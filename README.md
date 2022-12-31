@@ -30,6 +30,7 @@ bias when determining loan approval or denial.
 
 <picture>
   <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/approval-vs-denial-rate-by-race.png" width="250" height="300"/>
+  <figcaption align="bottom">Approval vs. denial rates for each race in the data set</figcaption>
 </picture>
 
 ## Approaches
@@ -62,11 +63,10 @@ use two centroids for approved and denied loan applications.
 
 ## Results
 
-<!-- * Naive Bayes
-
 <picture>
-  <img src="https://github.com/neilchen1998/image-segmentation-project/blob/main/results/naive-bayes-result.jpg" width="250" height="250">
-</picture> -->
+  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/loan-applicantion-decision-tree-truncated.png" width="250" height="300"/>
+  <figcaption align="bottom">Decision tree trained on all features (truncated)</figcaption>
+</picture>
 
 ## Authors
 
