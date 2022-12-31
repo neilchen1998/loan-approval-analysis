@@ -29,8 +29,7 @@ in value. This leads to the conclusion that there is no racial
 bias when determining loan approval or denial.
 
 <picture>
-  <img src="https://github.com/neilchen1998/
-loan-approval-analysis/blob/main/graphs/approval-vs-denial-rate-by-race.png" width="250" height="250">
+  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/approval-vs-denial-rate-by-race.png" width="250" height="300">
 </picture>
 
 ## Approaches
