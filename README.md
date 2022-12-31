@@ -33,6 +33,11 @@ bias when determining loan approval or denial.
   <figcaption align="bottom">Approval vs. denial rates for each race in the data set</figcaption>
 </figure>
 
+<figure>
+  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/approval-rate-by-county.png" alt="my alt text" width="390" height="270"/>
+  <figcaption align="bottom">Approval rate by county</figcaption>
+</figure>
+
 ## Approaches
 
 * Decision Tree Model [2]
@@ -66,6 +71,11 @@ use two centroids for approved and denied loan applications.
 <figure>
   <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/loan-applicantion-decision-tree-truncated.png" alt="my alt text" width="500" height="390"/>
   <figcaption align="bottom">Decision tree trained on all features (truncated)</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/k-means_clusters.png" alt="my alt text" width="500" height="390"/>
+  <figcaption align="bottom">Results of k-means algorithm with approved and denied clusters</figcaption>
 </figure>
 
 ## Authors
