@@ -35,7 +35,7 @@ bias when determining loan approval or denial.
 
 ## Approaches
 
-* Decision Tree Model
+* Decision Tree Model [2]
 
 Decision tree machine learning models are non-parametric
 supervised models used for regression and classification problems.
@@ -49,7 +49,7 @@ a white box model, hence we can visualize it and it can be
 explained easier than a black box model such as the ones used
 in artificial neural networks.
 
-* K-Means Model
+* K-Means Model [3]
 
 K-means machine learning models are unsupervised models,
 meaning that the training data that goes in to the model is
@@ -76,3 +76,5 @@ use two centroids for approved and denied loan applications.
 ## Reference
 
 1. [Home Mortgage Disclosure Act (HMDA)](https://www.consumerfinance.gov/data-research/hmda/historic-data/)
+2. [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
+3. [K-Means Clustering Explained](https://neptune.ai/blog/k-means-clustering)
