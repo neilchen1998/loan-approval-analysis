@@ -64,7 +64,7 @@ use two centroids for approved and denied loan applications.
 ## Results
 
 <picture>
-  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/loan-applicantion-decision-tree-truncated.png" width="250" height="300"/>
+  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/loan-applicantion-decision-tree-truncated.png" width="300" height="300"/>
   <figcaption align="bottom">Decision tree trained on all features (truncated)</figcaption>
 </picture>
 
