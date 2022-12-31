@@ -28,10 +28,10 @@ approved loans versus denied loans are relatively equivalent
 in value. This leads to the conclusion that there is no racial
 bias when determining loan approval or denial.
 
-<picture>
-  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/approval-vs-denial-rate-by-race.png" width="250" height="300"/>
+<figure>
+  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/approval-vs-denial-rate-by-race.png" alt="my alt text" width="300" height="360"/>
   <figcaption align="bottom">Approval vs. denial rates for each race in the data set</figcaption>
-</picture>
+</figure>
 
 ## Approaches
 
@@ -63,10 +63,10 @@ use two centroids for approved and denied loan applications.
 
 ## Results
 
-<picture>
-  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/loan-applicantion-decision-tree-truncated.png" width="300" height="300"/>
+<figure>
+  <img src="https://github.com/neilchen1998/loan-approval-analysis/blob/main/graphs/loan-applicantion-decision-tree-truncated.png" alt="my alt text" width="500" height="390"/>
   <figcaption align="bottom">Decision tree trained on all features (truncated)</figcaption>
-</picture>
+</figure>
 
 ## Authors
 
